@@ -1,0 +1,17 @@
+{
+    "baidu": [
+        ["zh-CN", "en", "zh-CN"],
+        ["zh-CN", "ja", "zh-CN"],
+        ["zh-CN", "ko", "zh-CN"],
+        ["zh-CN", "fr", "zh-CN"],
+        ["zh-CN", "es", "zh-CN"],
+        ["zh-CN", "th", "zh-CN"],
+        ["zh-CN", "de", "zh-CN"],
+        ["zh-CN", "zh-TW", "zh-CN"]
+    ],
+    "youdao": [
+        ["zh-CN", "en", "zh-CN"],
+        ["zh-CN", "ko", "zh-CN"],
+        ["zh-CN", "fr", "zh-CN"]
+    ]
+}
